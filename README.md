@@ -1,3 +1,33 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:030712,25:0F172A,50:111827,75:1D4ED8,100:3B82F6&text=Zeeshan%20Sajid&fontSize=52&fontColor=E2E8F0&fontAlignY=38&animation=fadeIn&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=1000&color=93C5FD&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Next.js+%26+MERN+Developer;AI+Enthusiast;Real-Time+Systems+Developer;Building+Scalable+Applications" />
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZeeshanSajid-3&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <a href="mailto:zeeshansajid2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+
+  <a href="https://wa.me/923316388407">
+    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+  </a>
+
+  <a href="https://github.com/ZeeshanSajid03">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/zeeshansajid">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+</p>
+
 # Zeeshan Sajid
 
 Full Stack Developer | Computer Science Student | IoT & AI Enthusiast
@@ -75,6 +105,9 @@ IoT-based irrigation system using sensors, ESP32, and AI model for automated irr
 Stack: Arduino, ESP32, Node.js, MongoDB, React
 
 ---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ZeeshanSajid03&theme=transparent)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanSajid03&theme=github-compact)
 
 ## Contact
 
